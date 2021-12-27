@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/csb-3o9c5/static/css/main.6a9c7bbc.chunk.css",
+    "main.js": "/csb-3o9c5/static/js/main.d6d8d121.chunk.js",
+    "main.js.map": "/csb-3o9c5/static/js/main.d6d8d121.chunk.js.map",
+    "runtime-main.js": "/csb-3o9c5/static/js/runtime-main.7cdfee4e.js",
+    "runtime-main.js.map": "/csb-3o9c5/static/js/runtime-main.7cdfee4e.js.map",
+    "static/js/2.61ec22ec.chunk.js": "/csb-3o9c5/static/js/2.61ec22ec.chunk.js",
+    "static/js/2.61ec22ec.chunk.js.map": "/csb-3o9c5/static/js/2.61ec22ec.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/csb-3o9c5/static/css/3.df879eac.chunk.css",
+    "static/js/3.fe5764c6.chunk.js": "/csb-3o9c5/static/js/3.fe5764c6.chunk.js",
+    "static/js/3.fe5764c6.chunk.js.map": "/csb-3o9c5/static/js/3.fe5764c6.chunk.js.map",
+    "index.html": "/csb-3o9c5/index.html",
+    "precache-manifest.623895c48deb8dd0b4252f859cf2646e.js": "/csb-3o9c5/precache-manifest.623895c48deb8dd0b4252f859cf2646e.js",
+    "service-worker.js": "/csb-3o9c5/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/csb-3o9c5/static/css/3.df879eac.chunk.css.map",
+    "static/css/main.6a9c7bbc.chunk.css.map": "/csb-3o9c5/static/css/main.6a9c7bbc.chunk.css.map",
+    "static/js/2.61ec22ec.chunk.js.LICENSE.txt": "/csb-3o9c5/static/js/2.61ec22ec.chunk.js.LICENSE.txt",
+    "static/media/AMCCOLLEGELOGO.png": "/csb-3o9c5/static/media/AMCCOLLEGELOGO.29bfc020.png",
+    "static/media/index.css": "/csb-3o9c5/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/CIRCLE1.png": "/csb-3o9c5/static/media/CIRCLE1.73a7d9d8.png",
+    "static/media/CRCLE2.png": "/csb-3o9c5/static/media/CRCLE2.c54b0204.png",
+    "static/media/airbnbLogo.png": "/csb-3o9c5/static/media/airbnbLogo.c59720d6.png",
+    "static/media/developerActivity.svg": "/csb-3o9c5/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/csb-3o9c5/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/manOnTable.svg": "/csb-3o9c5/static/media/manOnTable.52be3144.svg",
+    "static/media/masai.jpeg": "/csb-3o9c5/static/media/masai.358f8f1f.jpeg",
+    "static/media/picsss1.png": "/csb-3o9c5/static/media/picsss1.0afa76ca.png",
+    "static/media/python.jpg": "/csb-3o9c5/static/media/python.13c478a2.jpg",
+    "static/media/quoraLogo.png": "/csb-3o9c5/static/media/quoraLogo.4b2938b9.png",
+    "static/media/www.mpl.live_ (1).png": "/csb-3o9c5/static/media/www.mpl.live_ (1).2996cefc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cdfee4e.js",
+    "static/js/2.61ec22ec.chunk.js",
+    "static/css/main.6a9c7bbc.chunk.css",
+    "static/js/main.d6d8d121.chunk.js"
+  ]
+}
